@@ -1,0 +1,223 @@
+2017-07-21 10:17:59.751 00001ec0 Error: select(2) reported connected clients (number = 1, descriptor boundary = 881), but none found.
+2017-07-21 10:17:59.751 00001ec0 Error: Graceful termination requested
+2017-07-21 20:05:20.906 00000b2c Error: select(2) reported connected clients (number = 1, descriptor boundary = 1017), but none found.
+2017-07-21 20:05:20.906 00000b2c Error: Graceful termination requested
+2017-07-28 10:14:56.325 000023f8 Error: No server or forwarder response received on socket 2180.
+2017-07-28 19:23:43.342 000014dc Error: Graceful termination requested
+2017-07-28 19:42:11.175 000002bc Error: Graceful termination requested
+2017-07-28 19:42:47.754 00000204 Error: Graceful termination requested
+2017-07-28 19:51:48.522 000019f4 Error: Didn't receive data in time: translate.googleapis.com:443
+2017-07-28 19:51:48.562 000019ec Error: Didn't receive data in time: clientservices.googleapis.com:443
+2017-07-28 19:51:56.324 00001af4 Error: Didn't receive data in time: ssl.gstatic.com:443
+2017-07-28 19:51:56.599 00001b0c Error: Didn't receive data in time: tools.google.com:443
+2017-07-29 10:20:44.949 00001b50 Error: Graceful termination requested
+2017-07-31 21:51:13.778 00001384 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-07-31 21:51:14.324 00001384 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-07 09:22:17.212 000002a0 Error: select(2) reported connected clients (number = 1, descriptor boundary = 837), but none found.
+2017-08-07 09:22:17.212 000002a0 Error: Graceful termination requested
+2017-08-07 12:21:59.251 00001d40 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-07 12:21:59.270 00001d40 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-09 22:17:21.531 000013d4 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-08-09 22:17:21.544 000013d4 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-10 12:21:36.731 00000f68 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-10 12:21:36.738 00000f68 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-10 18:11:23.240 00001668 Error: read from: ent-shasta-mr-clean.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-10 18:11:23.254 00001668 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-14 19:36:16.914 00002e98 Error: Couldn't deliver the error message through client socket 3604: WSAECONNABORTED - Software caused connection abort.
+2017-08-15 08:24:38.619 0000243c Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-15 08:24:40.621 0000243c Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-15 08:24:40.071 000031d0 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-15 08:24:40.623 000031d0 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-15 08:25:18.349 0000207c Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-15 08:25:18.349 0000207c Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-15 08:25:24.377 000014cc Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-15 08:25:24.377 000014cc Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-16 14:43:50.752 00000a0c Error: Couldn't deliver the error message through client socket 1008: WSAECONNABORTED - Software caused connection abort.
+2017-08-16 18:13:26.055 000019a4 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-16 18:13:26.055 000019a4 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-16 18:13:28.909 00001fec Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-16 18:13:28.910 00001fec Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-17 17:07:18.515 00000eb0 Error: No server or forwarder response received on socket 2632.
+2017-08-17 18:05:26.198 00002158 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-17 18:05:26.216 00002158 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-17 18:05:29.098 00002684 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-17 18:05:29.098 00002684 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-17 18:05:30.041 00002638 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-17 18:05:30.041 00002638 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-17 18:05:46.436 00002410 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-17 18:05:46.436 00002410 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-17 18:05:54.597 00001dac Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-17 18:05:54.597 00001dac Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-17 18:06:01.713 00001264 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-17 18:06:01.713 00001264 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-17 21:06:30.037 000021cc Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-08-17 21:06:30.057 000021cc Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-18 09:09:40.685 0000242c Error: read from: stnd-ipsg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-18 09:09:40.714 0000242c Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-18 12:31:15.041 00001888 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-08-18 12:31:15.061 00001888 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-19 09:06:30.301 00002620 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-19 09:06:31.311 00002620 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-19 10:56:02.060 00002cd0 Error: No server or forwarder response received on socket 3692.
+2017-08-19 11:37:57.911 00002f20 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-08-19 11:37:57.912 00002f20 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-21 13:23:29.985 0000284c Error: Couldn't deliver the error message through client socket 3524: WSAECONNRESET - Connection reset by peer.
+2017-08-21 13:23:29.987 00002d8c Error: Couldn't deliver the error message through client socket 3512: WSAECONNRESET - Connection reset by peer.
+2017-08-21 13:23:30.106 00001fb0 Error: Couldn't deliver the error message through client socket 4020: WSAECONNRESET - Connection reset by peer.
+2017-08-22 08:49:41.714 00001058 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-22 08:49:41.729 00001058 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-22 21:07:20.736 00001f94 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-22 21:07:21.255 00001f94 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-22 21:07:34.585 00001b04 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-08-22 21:07:35.095 00001b04 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-22 21:08:21.040 000017d8 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-08-22 21:08:21.040 000017d8 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-22 21:59:36.483 00001594 Error: Couldn't deliver the error message through client socket 1188: WSAECONNRESET - Connection reset by peer.
+2017-08-22 21:59:36.506 0000041c Error: Couldn't deliver the error message through client socket 1184: WSAECONNRESET - Connection reset by peer.
+2017-08-23 08:45:31.227 00000ec8 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-23 08:45:31.227 00000ec8 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-23 22:14:20.896 000002d8 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-23 22:14:22.357 000002d8 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-24 08:44:31.830 00002518 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-24 08:44:32.366 00002518 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-24 18:06:54.013 00001f08 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-24 18:06:54.030 00001f08 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-24 18:06:58.155 000028b8 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-24 18:06:58.155 000028b8 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-24 20:04:46.550 000023f4 Error: Couldn't deliver the error message through client socket 1188: WSAECONNABORTED - Software caused connection abort.
+2017-08-25 13:22:24.169 00001258 Error: Couldn't deliver the error message through client socket 864: WSAECONNABORTED - Software caused connection abort.
+2017-08-25 13:28:51.532 00001560 Error: Couldn't deliver the error message through client socket 1132: WSAECONNABORTED - Software caused connection abort.
+2017-08-26 00:23:35.851 000010e0 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-08-26 00:23:35.872 000010e0 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-28 19:07:16.596 00002510 Error: Couldn't deliver the error message through client socket 3208: WSAECONNABORTED - Software caused connection abort.
+2017-08-29 08:55:14.671 000015c0 Error: Couldn't deliver the error message through client socket 1172: WSAECONNABORTED - Software caused connection abort.
+2017-08-30 08:42:57.920 00001ce0 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-30 08:42:58.430 00001ce0 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-30 15:54:01.708 00002190 Error: No server or forwarder response received on socket 3228.
+2017-08-31 15:12:23.446 000028c8 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-08-31 15:12:23.463 000028c8 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-08-31 23:50:46.299 00002e50 Error: Couldn't deliver the error message through client socket 3236: WSAECONNABORTED - Software caused connection abort.
+2017-09-01 14:46:54.162 00002b88 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-09-01 14:46:54.185 00002b88 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-01 14:49:29.773 00002fd0 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-01 14:49:29.774 00002fd0 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-01 14:49:34.812 00002df4 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-01 14:49:34.812 00002df4 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-01 23:48:55.362 00002fe4 Error: Couldn't deliver the error message through client socket 2724: WSAECONNABORTED - Software caused connection abort.
+2017-09-02 00:08:43.666 00003380 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-09-02 00:08:43.666 00003380 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-02 00:08:52.025 00002d2c Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-02 00:08:52.025 00002d2c Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-02 17:14:31.494 000037f0 Error: Couldn't deliver the error message through client socket 3860: WSAECONNABORTED - Software caused connection abort.
+2017-09-02 17:14:31.495 000023a4 Error: Couldn't deliver the error message through client socket 1392: WSAECONNABORTED - Software caused connection abort.
+2017-09-05 08:45:15.921 000037bc Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-05 08:45:15.939 000037bc Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-05 08:45:26.357 00002b04 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-05 08:45:26.357 00002b04 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-05 14:54:05.011 000029bc Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-05 14:54:05.011 000029bc Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-05 14:54:10.302 000014dc Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-05 14:54:10.302 000014dc Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-05 14:54:18.051 00002850 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-09-05 14:54:18.051 00002850 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-06 13:33:03.555 00003894 Error: Couldn't deliver the error message through client socket 3436: WSAECONNABORTED - Software caused connection abort.
+2017-09-06 23:08:25.975 00000134 Error: read from: central.b6.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-09-06 23:08:25.975 00000134 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-06 23:08:37.480 000038f8 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-06 23:08:37.481 000038f8 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-07 14:09:11.862 000029bc Error: No server or forwarder response received on socket 3764.
+2017-09-08 09:03:49.199 00003fa4 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-08 09:03:49.199 00003fa4 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-08 22:27:36.082 00003e98 Error: read from: central.b6.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-08 22:27:36.082 00003e98 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-11 08:42:42.972 000011a4 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-11 08:42:42.972 000011a4 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-11 15:21:52.102 00003480 Error: read from: ent-shasta-mr-clean.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-11 15:21:52.102 00003480 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-11 22:18:15.920 00002488 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-11 22:18:15.921 00002488 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-13 17:44:08.685 000049b4 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-13 17:44:08.700 000049b4 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-14 15:18:01.985 00003dc8 Error: Didn't receive data in time: softwareupdate.vmware.com:443
+2017-09-14 20:19:05.467 00001f54 Error: Didn't receive data in time: softwareupdate.vmware.com:443
+2017-09-15 09:11:08.651 0000165c Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-15 09:11:08.651 0000165c Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-15 12:10:42.696 000039f0 Error: read from: bash-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-15 12:10:42.696 000039f0 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-15 15:54:49.748 00001b1c Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-15 15:54:49.760 00001b1c Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-17 22:02:04.187 00001994 Error: read from: avs-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-09-17 22:02:04.882 00001994 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-18 07:47:20.538 00000c54 Error: Couldn't deliver the error message through client socket 2596: WSAECONNABORTED - Software caused connection abort.
+2017-09-19 14:32:07.742 00001fa0 Error: Couldn't deliver the error message through client socket 1324: WSAECONNABORTED - Software caused connection abort.
+2017-09-19 15:08:55.510 00001e5c Error: Couldn't deliver the error message through client socket 1904: WSAECONNRESET - Connection reset by peer.
+2017-09-20 08:34:23.645 00001e20 Error: Couldn't deliver the error message through client socket 2648: WSAECONNABORTED - Software caused connection abort.
+2017-09-20 08:34:23.656 00002508 Error: Couldn't deliver the error message through client socket 2896: WSAECONNABORTED - Software caused connection abort.
+2017-09-20 22:20:57.404 000000bc Error: Couldn't deliver the error message through client socket 2116: WSAECONNABORTED - Software caused connection abort.
+2017-09-21 08:44:37.416 00000ccc Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-21 08:44:37.751 00000ccc Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-21 21:02:28.341 000004b0 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-09-21 21:02:28.341 000004b0 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-21 21:02:39.648 000011b4 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-21 21:02:39.648 000011b4 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-22 08:33:27.662 00002134 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-22 08:33:28.170 00002134 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-22 08:33:32.029 00001b28 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-22 08:33:32.029 00001b28 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-22 17:36:09.266 0000233c Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-22 17:36:09.288 0000233c Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-22 17:36:16.034 000027e4 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-22 17:36:16.034 000027e4 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-22 17:36:18.796 0000154c Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-22 17:36:18.796 0000154c Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-22 17:51:58.124 000029f4 Error: Couldn't deliver the error message through client socket 3172: WSAECONNABORTED - Software caused connection abort.
+2017-09-23 08:52:13.682 00000690 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-09-23 08:52:13.700 00000690 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-23 09:20:25.028 00001aa4 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-09-23 09:20:25.028 00001aa4 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-23 13:01:03.300 00000fb8 Error: Couldn't deliver the error message through client socket 1912: WSAECONNABORTED - Software caused connection abort.
+2017-09-23 15:19:19.166 00001528 Error: Couldn't deliver the error message through client socket 3796: WSAECONNABORTED - Software caused connection abort.
+2017-09-23 15:19:19.180 00000d60 Error: Couldn't deliver the error message through client socket 3044: WSAECONNABORTED - Software caused connection abort.
+2017-09-24 11:12:53.883 00001950 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-24 11:12:53.899 00001950 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-24 11:13:06.812 00001f64 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-24 11:13:06.812 00001f64 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-24 11:13:17.939 00000054 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-09-24 11:13:17.939 00000054 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-24 22:15:59.241 00000bd0 Error: Couldn't deliver the error message through client socket 3728: WSAECONNABORTED - Software caused connection abort.
+2017-09-25 08:34:12.199 00000b18 Error: Couldn't deliver the error message through client socket 3852: WSAECONNABORTED - Software caused connection abort.
+2017-09-25 21:32:18.556 00000478 Error: read from: ent-shasta-mr-clean.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-09-25 21:32:18.571 00000478 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-26 08:40:13.997 00001b98 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-26 08:40:14.011 00001b98 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-27 08:41:56.169 00002268 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-09-27 08:41:56.420 00002268 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-27 13:27:17.361 000019c0 Error: Couldn't deliver the error message through client socket 2524: WSAECONNABORTED - Software caused connection abort.
+2017-09-28 08:41:22.210 00002618 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-28 08:41:22.713 00002618 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-28 12:02:07.130 000019c4 Error: Couldn't deliver the error message through client socket 3132: WSAECONNRESET - Connection reset by peer.
+2017-09-28 12:02:07.133 000026c4 Error: Couldn't deliver the error message through client socket 1584: WSAECONNABORTED - Software caused connection abort.
+2017-09-28 12:02:07.271 0000211c Error: Couldn't deliver the error message through client socket 3328: WSAECONNABORTED - Software caused connection abort.
+2017-09-28 12:02:07.490 0000129c Error: Couldn't deliver the error message through client socket 2992: WSAECONNRESET - Connection reset by peer.
+2017-09-28 16:16:59.082 00002028 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-28 16:16:59.217 00002028 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-28 19:17:12.589 000014c8 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-09-28 19:17:12.605 000014c8 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-29 08:28:05.286 00001470 Error: Couldn't deliver the error message through client socket 3192: WSAECONNABORTED - Software caused connection abort.
+2017-09-29 08:28:05.308 00002030 Error: Couldn't deliver the error message through client socket 1608: WSAECONNABORTED - Software caused connection abort.
+2017-09-29 08:53:28.929 00001f5c Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-09-29 08:53:28.944 00001f5c Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-29 14:35:13.291 00002098 Error: Didn't receive data in time: softwareupdate.vmware.com:443
+2017-09-29 15:16:53.283 00002398 Error: read from: stnd-avpg.crsi.symantec.com failed: WSAECONNRESET - Connection reset by peer.
+2017-09-29 15:16:57.770 00002398 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-09-29 18:17:00.640 0000168c Error: Couldn't deliver the error message through client socket 3712: WSAECONNABORTED - Software caused connection abort.
+2017-09-29 21:16:57.584 00002ad8 Error: Didn't receive data in time: softwareupdate.vmware.com:443
+2017-09-30 09:31:38.703 00000b58 Error: Didn't receive data in time: softwareupdate.vmware.com:443
+2017-09-30 14:57:24.415 00001b50 Error: Didn't receive data in time: softwareupdate.vmware.com:443
+2017-10-09 20:45:33.482 0000102c Error: read from: central.avsi.symantec.com failed: WSAECONNABORTED - Software caused connection abort.
+2017-10-09 20:45:33.499 0000102c Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2017-10-09 21:10:43.622 00001190 Error: Didn't receive data in time: softwareupdate.vmware.com:443
+2017-10-09 23:51:25.361 000022c4 Error: Couldn't deliver the error message through client socket 1408: WSAECONNABORTED - Software caused connection abort.
+2017-10-09 23:51:25.439 000024f8 Error: Couldn't deliver the error message through client socket 1228: WSAECONNABORTED - Software caused connection abort.
+2017-10-10 10:15:36.116 000013fc Error: No server or forwarder response received on socket 1624.
+2017-10-10 14:41:11.748 00001878 Error: No server or forwarder response received on socket 3048.

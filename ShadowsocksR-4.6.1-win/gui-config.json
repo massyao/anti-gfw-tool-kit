@@ -1,0 +1,92 @@
+{
+	"configs" : [
+		{
+			"remarks" : "VirMach",
+			"id" : "9E09D32617D8E4F63D8D10A220BD2FA8",
+			"server" : "192.3.213.161",
+			"server_port" : 443,
+			"server_udp_port" : 0,
+			"password" : "amormaid",
+			"method" : "aes-128-cfb",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "VmlyTWFjaA",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "Vps",
+			"id" : "86CC3B5DD5514B62BE1117AB540B8A41",
+			"server" : "104.152.190.126",
+			"server_port" : 16001,
+			"server_udp_port" : 0,
+			"password" : "password",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "VnBz",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "Gestion",
+			"id" : "133D93AD1995D6D891B32C6A18F6953C",
+			"server" : "167.114.219.246",
+			"server_port" : 14601,
+			"server_udp_port" : 0,
+			"password" : "password",
+			"method" : "aes-128-cfb",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "R2VzdGlvbg",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : false,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "c4Tw2nZkRu6ma8Sv1UZS",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 3,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : "",
+	"proxyPort" : 0,
+	"proxyAuthUser" : "",
+	"proxyAuthPass" : "",
+	"proxyUserAgent" : "",
+	"authUser" : "",
+	"authPass" : "",
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : false,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
