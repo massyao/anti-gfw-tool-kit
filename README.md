@@ -1,2 +1,2 @@
 # anti-gfw-tool-kit
-sscap shadowsock-R swichomega
+sscap shadowsock-R switch-omega
